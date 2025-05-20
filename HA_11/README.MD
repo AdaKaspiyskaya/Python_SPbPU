@@ -21,6 +21,7 @@ IMA_project/
 │
 
 └── solver.py # Реализация методов решения уравнений
+
     │
 
     ├── inflow_performance/
